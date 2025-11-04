@@ -78,11 +78,6 @@ Input	Selected Unit	Output
 1	Kilometer	1000 meters
 5	Meters	500 centimeters
 250	Centimeters	2.5 meters
-📸 (Optional) Screenshot
-
-(Add a screenshot of your GUI window here)
-For example:
-![App Screenshot](images/screenshot.png)
 
 💬 Pop-up Interactions
 
